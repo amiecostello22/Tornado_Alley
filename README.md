@@ -8,7 +8,8 @@ The purpose of this analysis is to use a Regression Model to identify, and then 
 This analysis was completed as part of a final group project done by Matthew Baskette, Amie Costello, and Merabu Nagwandala. 
 
 #### Dataset Source
-For our source, we used the US Tornado Dataset from [Kaggle.com]([url](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021).)) This dataset has over 67,000 rows of tornado data from the years 1950 to 2021. The dataset also includes columns for the magnitude as well as the number of injuries for each tornado.
+For our source, we used the US Tornado Dataset from [Kaggle.com]([url](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021).)) 
+This dataset has over 67,000 rows of tornado data from the years 1950 to 2021. The dataset also includes columns for the magnitude as well as the number of injuries for each tornado.
  
  ### Segment One Requirements
 - [ ] Create an ER diagram and setup database for your data (if applicable)
