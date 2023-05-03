@@ -23,7 +23,8 @@ This dataset has over 67,000 rows of tornado data from the years 1950 to 2021. T
  
 # outline of our visualization dashboard
 
-## The number of Injuries Vs Magnitude. We want to compare how many injuries are caused as the assigned intensity changes.
+## The number of Injuries Vs Magnitude.
+We want to compare how many injuries are caused as the assigned intensity changes.
  
 ## The number of Injuries caused per period (month, Filter by Year)
 In this visualization, we aim at finding out how many injuries are recorded per period throughout the years and months
