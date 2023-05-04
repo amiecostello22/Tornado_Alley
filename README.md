@@ -12,10 +12,10 @@ For our source, we used the US Tornado Dataset from [Kaggle.com]([url](https://w
 This dataset has over 67,000 rows of tornado data in the United States from the years 1950 to 2021. The dataset also includes columns for the magnitude as well as the number of injuries for each tornado.
  
  ### Segment One Requirements
-- [ x ] Create an ER diagram and setup database for your data (if applicable)
-- [ x ] Create an rough outline of your visualization dashboard
-- [ x ] Create a paper based mockup of your machine learning model
-- [ x ] Continue to use Github for all the data
+- [x] Create an ER diagram and setup database for your data (if applicable)
+- [x] Create an rough outline of your visualization dashboard
+- [x] Create a paper based mockup of your machine learning model
+- [x] Continue to use Github for all the data
  
  ### Segment Two
 - [ ] A detailed README.md file that includes the project status, images, description, and results
