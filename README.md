@@ -5,7 +5,7 @@
 ## Purpose
 The purpose of this analysis is to use a Linear Regression Model to identify, and then predict, injuries from tornadoes compared to the magnitude of the tornado. Our goal in analyzing the injuries from the tornado dataset is to determine if there is a trend in the reported injuries compared to the magnitude of the tornado. We can assume that a higher tornadic magnitude is likely to result in higher injuries. However, we want to see if other factors that can raise, or lower,  the injury rate. For example, does the starting location of the tornado, such as a specific state, seem to produce more tornadoes of a higher magnitude or tornadoes that stay on the ground for longer than other states? Will a lower magnitude tornado with a long path cause more injuries than a higher magnitude tornado that has a shorter path?
 
-This analysis was completed as part of a final group project done by Matthew Baskette, Amie Costello, and Merab Nagwandala. 
+This analysis was completed as part of a final group project done by Matthew Baskette, Amie Costello, and Merabu Nagwandala. 
 
 #### Dataset Source
 For our source, we used the US Tornado Dataset from [Kaggle.com]([url](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021).)) 
