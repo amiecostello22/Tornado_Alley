@@ -7,8 +7,12 @@ The purpose of this analysis is to use a Linear Regression Model to identify, an
 
 This analysis was completed as part of a final group project done by Matthew Baskette, Amie Costello, and Merabu Nagwandala. 
 
+## Linear Regression Model
+
+
+
 #### Dataset Source
-For our source, we used the US Tornado Dataset from [Kaggle.com]([url](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021).)) 
+For our source, we used the US Tornado Dataset from [Kaggle.com](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021). 
 This dataset has over 67,000 rows of tornado data in the United States from the years 1950 to 2021. The dataset also includes columns for the magnitude as well as the number of injuries for each tornado.
  
  ### Segment One Requirements
@@ -27,13 +31,19 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
  ### Segment Three
  
 ## Outline of Our Visualization Dashboard
-Our group chose to use Tableau for our visualization dashboard.
+Our group chose to use Tableau for our visualization dashboard. We used the data to create dashboards of the following:
+
+#### Number of Tornadoes per State
+A visual map of the continental United States of the number of tornadoes per state.
+
+#### Number of Injuries per State
+A color-coded visual map of the continental United States with the number of tornadic injuries per state.
 
 #### Number of Injuries Vs Magnitude
 We want to compare how many injuries are caused as the assigned intensity changes.
  
 #### Number of Injuries Caused per Period (month, Filter by Year)
-In this visualization, we aim at finding out how many injuries are recorded per period throughout the years and months
+In this visualization, we aim at finding out how many injuries are recorded per period throughout the years and months.
  
 #### The Change in Magnitude Over Time
 The Visualization is aimed at identifying any changes in the intensity of tornadoes over the years.
