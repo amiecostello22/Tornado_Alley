@@ -26,7 +26,7 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 - [ ] First attempt of a machine learning model, including a confusion matrix and accuracy score
 - [ ] First attempt of a working dashboard
 - [ ] Database that stores data for the project (if applicable)
-- [ ] Draft of presentation
+- [x] Draft of presentation
 
  ### Segment Three
  
