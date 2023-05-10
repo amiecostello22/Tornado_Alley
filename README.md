@@ -30,6 +30,18 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 
  ### Segment Three
  
+ ## Presentation Draft
+- Introduce team members, discuss our dataset (what is is, what source we used).
+- Purpose: restate purpose listed on the readme doc.
+- Our models/methods:
+     Random Forest Model - Ran our model with six hidden layers. We got an accuracy of 88 percent.
+     Multiple Linear Regression
+     Linear Regression
+     - Images: screenshots of code, quick snippet about each model used.
+- Results: results of each model. 
+     - Images: screenshots of model results, graphs.
+- Tableau: Interactive dashboards of tornados per state, injuries per state, magnitude versus injuries heatmap.
+ 
 ## Outline of Our Visualization Dashboard
 Our group chose to use Tableau for our visualization dashboard. We used the data to create dashboards of the following:
 
