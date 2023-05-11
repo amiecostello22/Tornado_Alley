@@ -1,9 +1,9 @@
 # Tornado Injuries Final Project
-### An Analysis of Injuries Compared to Magnitude from Tornadoes
+### An Analysis of Injuries Compared to Magnitude from Tornados
 ![tornado_cover](https://github.com/amiecostello22/Tornado_Alley/blob/main/images/tornado_cover.png)
 
 ## Purpose
-The purpose of this analysis is to use a Linear Regression Model to identify, and then predict, injuries from tornadoes compared to the magnitude of the tornado. Our goal in analyzing the injuries from the tornado dataset is to determine if there is a trend in the reported injuries compared to the magnitude of the tornado. We can assume that a higher tornadic magnitude is likely to result in higher injuries. However, we want to see if other factors that can raise, or lower,  the injury rate. For example, does the starting location of the tornado, such as a specific state, seem to produce more tornadoes of a higher magnitude or tornadoes that stay on the ground for longer than other states? Will a lower magnitude tornado with a long path cause more injuries than a higher magnitude tornado that has a shorter path?
+The purpose of this analysis is to use a Linear Regression Model to identify, and then predict, injuries from tornados compared to the magnitude of the tornado. Our goal in analyzing the injuries from the tornado dataset is to determine if there is a trend in the reported injuries compared to the magnitude of the tornado. We can assume that a higher tornadic magnitude is likely to result in higher injuries. However, we want to see if other factors that can raise, or lower,  the injury rate. For example, does the starting location of the tornado, such as a specific state, seem to produce more tornadoes of a higher magnitude or tornados that stay on the ground for longer than other states? Will a lower magnitude tornado with a long path cause more injuries than a higher magnitude tornado that has a shorter path?
 
 This analysis was completed as part of a final group project done by Matthew Baskette, Amie Costello, and Merabu Nagwandala. 
 
@@ -25,7 +25,6 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 - [ ] A detailed README.md file that includes the project status, images, description, and results
 - [ ] First attempt of a machine learning model, including a confusion matrix and accuracy score
 - [ ] First attempt of a working dashboard
-- [ ] Database that stores data for the project (if applicable)
 - [x] Draft of presentation
 
  ### Segment Three
@@ -34,10 +33,10 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 - Introduce team members, discuss our dataset (what is is, what source we used).
 - Purpose: restate purpose listed on the readme doc.
 - Our models/methods:
-     Random Forest Model - Ran our model with six hidden layers. We got an accuracy of 88 percent.
-     Multiple Linear Regression
-     Linear Regression
-     - Images: screenshots of code, quick snippet about each model used.
+     - Random Forest Model - Ran our model with six hidden layers. We got an accuracy of 88 percent.
+     - Multiple Linear Regression
+     - Linear Regression
+          Images: screenshots of code, quick snippet about each model used.
 - Results: results of each model. 
      - Images: screenshots of model results, graphs.
 - Tableau: Interactive dashboards of tornados per state, injuries per state, magnitude versus injuries heatmap.
@@ -45,7 +44,7 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 ## Outline of Our Visualization Dashboard
 Our group chose to use Tableau for our visualization dashboard. We used the data to create dashboards of the following:
 
-#### Number of Tornadoes per State
+#### Number of Tornados per State
 A visual map of the continental United States of the number of tornadoes per state.
 
 #### Number of Injuries per State
