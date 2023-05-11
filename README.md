@@ -42,28 +42,22 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 - Tableau: Interactive dashboards of tornados per state, injuries per state, magnitude versus injuries heatmap.
  
 ## Outline of Our Visualization Dashboard
-Our group chose to use Tableau for our visualization dashboard. We used the data to create dashboards of the following:
+Our group chose to use Tableau for our visualization dashboard. We've included a preview our our current dashboard draft.
+![Dashboard_Rough_Draft](https://github.com/amiecostello22/Tornado_Alley/blob/main/images/Dashboard_draft.png)
 
+We used the data to create dashboards of the following:
 #### Number of Tornados per State
 A visual map of the continental United States of the number of tornadoes per state.
-
 #### Number of Injuries per State
 A color-coded visual map of the continental United States with the number of tornadic injuries per state.
-
 #### Number of Injuries Vs Magnitude
 We want to compare how many injuries are caused as the assigned intensity changes.
- 
 #### Number of Injuries Caused per Period (month, Filter by Year)
 In this visualization, we aim at finding out how many injuries are recorded per period throughout the years and months.
- 
 #### The Change in Magnitude Over Time
 The Visualization is aimed at identifying any changes in the intensity of tornadoes over the years.
-
 #### Injuries Caused per Period Against Magnitude
 The goal of this visualization is to identify the number of injuries recorded against the intensity of the tornado.
- 
 #### The Top Ending Location 
-
 #### The Top Starting Location
-
 #### Magnitude Compared to Tornadic Path Length
