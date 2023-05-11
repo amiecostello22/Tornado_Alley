@@ -22,9 +22,9 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 - [x] Continue to use Github for all the data
  
  ### Segment Two
-- [ ] A detailed README.md file that includes the project status, images, description, and results
-- [ ] First attempt of a machine learning model, including a confusion matrix and accuracy score
-- [ ] First attempt of a working dashboard
+- [x] A detailed README.md file that includes the project status, images, description, and results
+- [x] First attempt of a machine learning model, including a confusion matrix and accuracy score
+- [x] First attempt of a working dashboard
 - [x] Draft of presentation
 
  ### Segment Three
