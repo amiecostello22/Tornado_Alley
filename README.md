@@ -45,7 +45,7 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 Our group chose to use Tableau for our visualization dashboard. We've included a preview our our current dashboard draft.
 
 #### Current "In Progress" Tableau Dashboards
-- [Costello_Dashboard](https://public.tableau.com/app/profile/amie.costello/viz/TornadoDataDashboard/Dashboard1).
+- [Costello_Dashboard](https://public.tableau.com/app/profile/amie.costello/viz/TornadoDataDashboard/Dashboard1)
 
 ![Dashboard_Rough_Draft](https://github.com/amiecostello22/Tornado_Alley/blob/main/images/Dashboard_draft.png)
 
