@@ -7,10 +7,6 @@ The purpose of this analysis is to use a Linear Regression Model to identify, an
 
 This analysis was completed as part of a final group project done by Matthew Baskette, Amie Costello, and Merabu Nagwandala. 
 
-## Linear Regression Model
-
-
-
 #### Dataset Source
 For our source, we used the US Tornado Dataset from [Kaggle.com](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021). 
 This dataset has over 67,000 rows of tornado data in the United States from the years 1950 to 2021. The dataset also includes columns for the magnitude as well as the number of injuries for each tornado.
@@ -21,25 +17,30 @@ This dataset has over 67,000 rows of tornado data in the United States from the 
 - [x] Create a paper based mockup of your machine learning model
 - [x] Continue to use Github for all the data
  
- ### Segment Two
+ ### Segment Two Requirements
 - [x] A detailed README.md file that includes the project status, images, description, and results
 - [x] First attempt of a machine learning model, including a confusion matrix and accuracy score
 - [x] First attempt of a working dashboard
 - [x] Draft of presentation
 
- ### Segment Three
+ ### Segment Three Requirements
+- [x] A detailed README.md file that includes the project status, images, descriptions, and results
+- [x] At least 12 total commits per team member
+- [x] A machine learning model and an accuracy score
+- [x] A dashboard that has at least one interactive element
  
  ## Presentation Draft
-- Introduce team members, discuss our dataset (what is is, what source we used).
-- Purpose: restate purpose listed on the readme doc.
-- Our models/methods:
-     - Random Forest Model - Ran our model with six hidden layers. We got an accuracy of 88 percent.
-     - Multiple Linear Regression
-     - Linear Regression
-          Images: screenshots of code, quick snippet about each model used.
-- Results: results of each model. 
-     - Images: screenshots of model results, graphs.
-- Tableau: Interactive dashboards of tornados per state, injuries per state, magnitude versus injuries heatmap.
+ - Greeting - Welcome, introduce team members
+ - Introduction - Discuss purpose, dataset
+ - Main Body 1 - Coding specifics
+ - Main Body 2 - Coding specifics
+ - Main Body 3 - Coding specifics
+ - Tableau Dashboard
+ - Static Images - Starting Location, Ending Locations
+ - Static Images - Average Magnitude per Year
+ - Static Images - Injuries per Year
+ - Conclusion
+ - Invite Questions
  
 ## Outline of Our Visualization Dashboard
 Our group chose to use Tableau for our visualization dashboard. We've included a preview our our current dashboard draft.
@@ -49,19 +50,4 @@ Our group chose to use Tableau for our visualization dashboard. We've included a
 
 ![Dashboard_Rough_Draft](https://github.com/amiecostello22/Tornado_Alley/blob/main/images/Dashboard_draft.png)
 
-We used the data to create dashboards of the following:
-#### Number of Tornados per State
-A visual map of the continental United States of the number of tornadoes per state.
-#### Number of Injuries per State
-A color-coded visual map of the continental United States with the number of tornadic injuries per state.
-#### Number of Injuries Vs Magnitude
-We want to compare how many injuries are caused as the assigned intensity changes.
-#### Number of Injuries Caused per Period (month, Filter by Year)
-In this visualization, we aim at finding out how many injuries are recorded per period throughout the years and months.
-#### The Change in Magnitude Over Time
-The Visualization is aimed at identifying any changes in the intensity of tornadoes over the years.
-#### Injuries Caused per Period Against Magnitude
-The goal of this visualization is to identify the number of injuries recorded against the intensity of the tornado.
-#### The Top Ending Location 
-#### The Top Starting Location
-#### Magnitude Compared to Tornadic Path Length
+
